@@ -2,7 +2,7 @@
 
 ---
 
-# Merlot
+# Merlot 🍷
 
 Sistema de **monitoramento de adega** com **Arduino**, que acompanha **temperatura**, **luminosidade** e **umidade** do ambiente, exibe os dados em **LCD 16x2**, e aciona **LEDs** e **buzzer** conforme faixas ideais para armazenamento de vinhos. O projeto foi desenvolvido no contexto do caso **Vinheria Agnello** (Checkpoint 01 – Engenharia de Software / Edge Computing & Computer Systems).
 
